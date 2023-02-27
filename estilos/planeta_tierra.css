@@ -1,0 +1,7 @@
+#contenedor_tierra{
+    background-image: url('/img/earth.jpg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
