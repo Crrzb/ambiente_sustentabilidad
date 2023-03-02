@@ -1,0 +1,15 @@
+#div_foto{
+    height: 100vh;
+    background-image: url('/ambiente_sustentabilidad/img//atom.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+/* #ciclo_hidro{
+    background-image: url('/img/agua2.png');
+    background-repeat: repeat-x;
+    background-position: center 350px;
+    background-size: auto;
+    
+} */
